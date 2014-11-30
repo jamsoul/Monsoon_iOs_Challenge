@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>menu</string>
+		<key>x</key>
+		<integer>572</integer>
+		<key>y</key>
+		<integer>71</integer>
+		<key>w</key>
+		<string>46</string>
+		<key>h</key>
+		<string>26</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>compass</string>
+		<key>x</key>
+		<integer>208</integer>
+		<key>y</key>
+		<integer>65</integer>
+		<key>w</key>
+		<string>45</string>
+		<key>h</key>
+		<string>44</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>calendar</string>
+		<key>x</key>
+		<integer>124</integer>
+		<key>y</key>
+		<integer>63</integer>
+		<key>w</key>
+		<string>46</string>
+		<key>h</key>
+		<string>46</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>search</string>
+		<key>x</key>
+		<integer>38</integer>
+		<key>y</key>
+		<integer>67</integer>
+		<key>w</key>
+		<string>45</string>
+		<key>h</key>
+		<string>45</string>
+	</dict>
+</array>
+</plist>
