@@ -12,3 +12,4 @@ TO-DO:
 * Run a memory leak test.
 * Add animations for segments changing current selection.
 * Add VC Animations.
+* Fix round buttons gesture area.
